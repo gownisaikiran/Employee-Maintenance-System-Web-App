@@ -3,8 +3,8 @@
 # Requirements:
 1. Eclipse IDE  
 2. MySQL(I have used xampp server)
-3. Tomcat 
-Libraries   
+3. Tomcat<br/> 
+Libraries<br/>   
 4. mysql jar file
 5. jstl jar file
 
